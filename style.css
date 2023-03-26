@@ -1,0 +1,12 @@
+.container {
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: midnightblue;
+}
+.box {
+  width: 30%;
+  height: 50px;
+  margin-right: 5%;
+  background-color: green;
+}
